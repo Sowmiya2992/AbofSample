@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62916" started-at="2017-09-11T03:13:30Z" finished-at="2017-09-11T03:14:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62916" started-at="2017-09-11T03:13:30Z" finished-at="2017-09-11T03:14:33Z">
+      <class name="com.testscript.LoginScript">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testscript.LoginScript@3bfdc050]" name="setup" is-config="true" duration-ms="30419" started-at="2017-09-11T08:43:31Z" finished-at="2017-09-11T08:44:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="abofloginscript()[pri:0, instance:com.testscript.LoginScript@3bfdc050]" name="abofloginscript" duration-ms="31683" started-at="2017-09-11T08:44:01Z" finished-at="2017-09-11T08:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abofloginscript -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testscript.LoginScript@3bfdc050]" name="teardown" is-config="true" duration-ms="779" started-at="2017-09-11T08:44:33Z" finished-at="2017-09-11T08:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testscript.LoginScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
